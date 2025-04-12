@@ -1,0 +1,22 @@
+{
+  "name": "@rattan/zmtools",
+  "version": "1.0.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/chenzm_186/zm-yijia-miniprogram"
+  },
+  "keywords": [
+    "快捷工具",
+    "uniapp开发微信小程序",
+    "实时定位",
+    "高德逆编码",
+    "@rattan/zmtools"
+  ],
+  "author": "rattan",
+  "license": "MIT",
+  "description": "参考 readme.md 说明文档"
+}
